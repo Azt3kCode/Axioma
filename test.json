@@ -1,0 +1,20 @@
+{
+    "info": {
+        "titulo": "",
+        "idioma": "",
+        "fecha": "",
+        "curso": "",
+        "duracion": "",
+        "maestro": "",
+        "plataforma": "",
+        "calificacion": "",
+        "imagen": ""
+    },
+    "filtros": {
+        "idioma": "Ingles o Español",
+        "curso": "Cualquier Tecnología",
+        "plataforma": "Cualquier plataforma",
+        "calificacion": "Mayor a menos o Menor a mayor"
+    }
+}
+
